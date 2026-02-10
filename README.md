@@ -11,7 +11,7 @@ ESP gives you unfair awareness without looking obvious.
 You see players through everything, perfectly displayed, clean as hell.
 No screen spam. No ugly boxes. Just information—and power.
 
-Aim Assist is where skill meets domination.
+Aimbot is where skill meets domination.
 Smooth. Controlled. Adjustable to perfection.
 No snapping like a clown cheat—this looks legit while it deletes enemies.
 
