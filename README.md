@@ -28,4 +28,4 @@ If you want a flashy cheat to show off to your friends, go find a cheap hub. If 
 Stop playing fair. Start winning.
 
 WATCH THE SHOWCASE:
-[We are Uploading the new video]
+[https://www.youtube.com/watch?v=09QpNQ5hfo0]
