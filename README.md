@@ -1,4 +1,4 @@
-We are working for a best optimization
+We are working for a best optimization,
 Released The V2.1
 This is Legit Hub (LH) V2. No fluff, no filler—just pure dominance. If you're looking for an apology for how hard this hits, go somewhere else.
 
