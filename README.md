@@ -1,3 +1,4 @@
+Released The V2.1
 This is Legit Hub (LH) V2. No fluff, no filler—just pure dominance. If you're looking for an apology for how hard this hits, go somewhere else.
 
 LEGIT HUB (LH) V2: RELEASE NOTES
@@ -7,7 +8,7 @@ We’ve evolved. Legit Hub (LH) is the new standard. It’s cleaner, faster, and
 THE LOADOUT: WHAT’S NEW
 ESP REBORN: We’ve stripped the garbage. You get high-fidelity, clinical intel. You see them; they don't see you. Simple.
 
-AIMBOT V2: Re-coded for perfection. We’ve killed the robotic snapping. This is smooth, human-like tracking that deletes enemies before they can even react. It doesn't just aim; it hunts.
+AIMBOT: Re-coded for perfection. We’ve killed the robotic snapping. This is smooth, human-like tracking that deletes enemies before they can even react. It doesn't just aim; it hunts.
 
 ADVANCED PREDICTION: Stop chasing shadows. Our prediction engine puts your crosshair where the enemy will be. By the time they move, they’re already dead.
 
@@ -19,6 +20,9 @@ FRIEND & TEAM LOGIC: Don’t be a clown. Our logic ensures you never lock onto a
 
 PLAYER SEARCH: No one is anonymous. No one is hidden. Find your targets instantly and systematically.
 
+(NEW)
+FAST SWITCHING: Now u don't need to open the UI anymore with a simple keybind u can change of target easily.
+
 THE BOTTOM LINE
 Other players "grind." You dominate.
 Other players "guess." You already know.
@@ -29,3 +33,5 @@ Stop playing fair. Start winning.
 
 WATCH THE SHOWCASE:
 [https://www.youtube.com/watch?v=09QpNQ5hfo0]
+
+Current Version: 2.1
